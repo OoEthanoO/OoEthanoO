@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OoEthanoO&theme=tokyonight)](https://github.com/OoEthanoO)
+[![Stats](https://github-readme-stats.vercel.app/api?username=OoEthanoO&theme=algolia&show_icons=true)](https://github.com/OoEthanoO)
 
 <!--
 **OoEthanoO/OoEthanoO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
